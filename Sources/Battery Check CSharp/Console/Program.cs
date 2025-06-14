@@ -2,6 +2,7 @@
 {
     internal class Program
     {
+        //veri tipleri kontrolü için yapmıştım.
         static void Main(string[] args)
         {
             // TODO :Referanslara ekle. stringden gelen veri tiplerini dönüştürme.
